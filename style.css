@@ -79,10 +79,15 @@ body {
     .sub-box button:hover{
         background: #BDAA3D;
     }
-    .numbersinfo{
+    .Animalsinfo{
         color: lightskyblue;
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center;
+    }
+    .text-style{
+        font-weight: bold;
+        font-size: 1.5rem;
+        color:rgb(24, 22, 22);
     }

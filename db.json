@@ -1,0 +1,23 @@
+{
+    "Facts": [
+        {
+            "dog": "It's not abnormal for dogs to eat feces."
+        },
+        {
+            "panda": "The red panda and the giant panda share the same habitat and diet, and both animals are also endangered. However, scientific tests show that the red panda is in the raccoon family while the giant panda is in the bear family. Some scientists believe that the giant panda is so special that it should belong to its own family group."
+        },
+        {
+            "cat": "A cat's purr may be a form of self-healing, as it can be a sign of nervousness as well as contentment."
+        },
+        {
+            "fox":"A male is called a 'dog fox' while a female is called a 'vixen'"
+    },
+    {
+        "bird":"Approximately 2/3 of all the bird species are found in tropical rain forests."
+    },
+    {
+        "koala":"The koala is a marsupial mammal."
+}
+
+    ]
+}
